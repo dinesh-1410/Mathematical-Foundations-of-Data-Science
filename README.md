@@ -55,12 +55,6 @@ This repository contains comprehensive implementations and solutions for the Mat
 
 ```
 Mathematical-Foundations-of-Data-Science/
-├── Project/                 # Main course project files
-│   ├── linear_regression_models.py
-│   ├── lomb_scargle_periodogram.py
-│   ├── medical_insurance.csv
-│   ├── Tesla Stock Price.csv
-│   └── README.md
 ├── Assignments/            # Course assignments
 │   ├── A_1/               # Assignment 1
 │   ├── A_2/               # Assignment 2
@@ -68,10 +62,13 @@ Mathematical-Foundations-of-Data-Science/
 │   ├── A_4/               # Assignment 4
 │   ├── A_5/               # Assignment 5
 │   └── README.md
+├── Project/                 # Main course project files
+│   ├── linear_regression_models.py
+│   ├── lomb_scargle_periodogram.py
+│   ├── medical_insurance.csv
+│   ├── Tesla Stock Price.csv
+│   └── README.md
 ├── Tutorial/               # Tutorial solutions
-├── Notes/                  # Course notes and materials
-├── SLIDES/                 # Lecture slides
-├── Textbooks/              # Reference materials
 ├── requirements.txt        # Python dependencies
 ├── .gitignore             # Git exclusions
 └── README.md              # Main repository documentation
