@@ -51,7 +51,7 @@ The course project focuses on implementing and comparing robust statistical meth
 - **Content**: Complete project report and methodology
 - **Sections**: Problem formulation, mathematical foundations, implementation details, results analysis
 
-## 🛠️ Implementation Details
+## 🛠 Implementation Details
 
 ### Linear Regression Models
 
@@ -134,7 +134,7 @@ For interactive analysis, use the provided `.ipynb` files:
 - `BE21B032_CH5019_PROJECT_Q1.ipynb` - Linear regression analysis
 - `MFDS_Q1.ipynb` - Alternative implementation
 
-## 🔧 Dependencies
+##  Dependencies
 
 ### Python Packages
 - **Core**: numpy, pandas, scipy
@@ -158,7 +158,7 @@ For interactive analysis, use the provided `.ipynb` files:
 2. **Multiple periodicities** can be identified simultaneously
 3. **Signal reconstruction** validates periodicity detection quality
 
-## 📚 References
+##  References
 
 1. **Robust Statistics**: Rousseeuw, P.J. & Leroy, A.M. (1987)
 2. **Lomb-Scargle**: Lomb, N.R. (1976), Scargle, J.D. (1982)
