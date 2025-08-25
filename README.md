@@ -4,7 +4,6 @@
 **Faculty:** Dr. Arun Tangirala, Wadhwani School of Data Science & AI  
 **Institution:** IIT Madras  
 **Duration:** January 2024 - May 2024  
-**Student:** BE21B032
 
 ## Course Overview
 
