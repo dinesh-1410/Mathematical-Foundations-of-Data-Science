@@ -6,11 +6,11 @@
 **Duration:** January 2024 - May 2024  
 **Student:** BE21B032
 
-## 🎯 Course Overview
+## Course Overview
 
 This repository contains comprehensive implementations and solutions for the Mathematical Foundations of Data Science course, covering essential mathematical concepts and their practical applications in data science.
 
-## 📚 Course Content
+## Course Content
 
 ### Core Topics Covered
 - **Linear Algebra Fundamentals**
@@ -30,7 +30,7 @@ This repository contains comprehensive implementations and solutions for the Mat
 - Robust Regression
 - Principal Component Analysis (PCA)
 
-## 🚀 Key Projects
+## Key Projects
 
 ### 1. Linear Regression Models Implementation
 - **File:** `Project/linear_regression_models.py`
@@ -52,7 +52,7 @@ This repository contains comprehensive implementations and solutions for the Mat
 - **Analysis:** Comprehensive insurance data analysis using robust regression methods
 - **Evaluation Metrics:** MSE, Relative Bias (RB), Mean Absolute Error (MAE)
 
-## 📁Repository Structure
+## Repository Structure
 
 ```
 Mathematical-Foundations-of-Data-Science/
@@ -114,7 +114,7 @@ This course provides the mathematical foundation necessary for advanced data sci
 - Time series analysis techniques
 - Optimization in parameter estimation
 
-## 📝 Usage
+## Usage
 
 1. **Clone the repository:**
    ```bash
